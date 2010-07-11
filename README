@@ -1,10 +1,11 @@
 Embeded Foursquare information in tDiary, use Foursquare API.
 
-USAGE
-Settings screen , user name, password and enter the cache expiration time.
+Usage:
+Settings screen, user name, password and enter the cache expiration time.
 
 Badge: {{foursquare_badge}}
 
+CSS: 
 div.foursquare-widget{
 	background-color: #999999;
 	color: #ffffff;
