@@ -1,0 +1,45 @@
+Embeded Foursquare information in tDiary, use Foursquare API.
+
+USAGE
+Settings screen , user name, password and enter the cache expiration time.
+
+Badge: {{foursquare_badge}}
+
+div.foursquare-widget{
+	background-color: #999999;
+	color: #ffffff;
+	border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	padding: 0.5em;
+	width: 160px;
+	margin-left: 15px;
+}
+div.foursquare-widget{
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+div.mayor{
+	height: 40px;
+}
+div.badges{
+	height: 40px;
+}
+div.last{
+	height: 40px;
+	margin-bottom: -10px;
+	margin-top: 5px;
+}
+span.digits{
+	margin: auto;
+	font-size: 30px;
+	vertical-align: middle;
+}
+span.header{
+	vertical-align: middle;
+}
+span.checkin-venue{
+	font-size: 80%;
+	vertical-align: middle;
+}
+
